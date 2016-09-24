@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto"
+      xmlns:tools="http://schemas.android.com/tools"
+      tools:context=".MainActivity">
+
+    <item
+        android:id="@+id/action_add_room"
+        android:title="@string/menu_add_room"
+        app:showAsAction="never"/>
+
+    <item android:id="@+id/action_add_device"
+        android:title="@string/menu_add_device"
+        android:enabled="false"
+        app:showAsAction="never" />
+
+    <item android:id="@+id/action_setting"
+          android:title="@string/menu_setting"
+          app:showAsAction="never"/>
+
+</menu>

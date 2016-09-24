@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Умный дом</string>
+
+    <string name="menu_add_room">Добавить команту</string>
+    <string name="menu_setting">Настрйки</string>
+    <string name="menu_add_device">Добавить девайс</string>
+
+    <string name="dialog_name_of_room">Введите название комнаты</string>
+</resources>
